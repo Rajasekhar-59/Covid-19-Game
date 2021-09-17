@@ -1,1 +1,1 @@
-# Covid-19-Game
+# covid_19-Game
